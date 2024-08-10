@@ -11,3 +11,5 @@ for i in range(n):
 # for i in range(n):
 #     if names[i] == "ali":
 #         print(i)
+
+a =
